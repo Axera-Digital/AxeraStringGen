@@ -14,3 +14,4 @@ Generate Random Strings in Style
 * Some Bugs may be present. This was done in 2 hours.
 * Make sure SubSystem is set to Windows (/SUBSYSTEM:WINDOWS).
 * Press Home Key to Exit.
+* Compile in Release x64 / MultiByte Char Set / C++ Language Version ( Preview - Features from the Latest C++ Working Draft (/std:c++latest) )
